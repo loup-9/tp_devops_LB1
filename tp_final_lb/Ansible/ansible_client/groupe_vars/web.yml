@@ -1,3 +1,4 @@
 ---
-ansible_user : ubuntu 
-ansible_ssh_private_key_file : tp_dev_ynov.pem
+ansible_user: ubuntu 
+ansible_ssh_private_key_file: /home/ubuntu/tp_devops_LB1/tp_final_lb/Ansible/ansible_client/tp_dev_ynov.pem
+
