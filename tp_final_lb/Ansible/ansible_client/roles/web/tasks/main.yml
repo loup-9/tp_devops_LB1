@@ -1,0 +1,8 @@
+---
+# tasks file for roles/web
+- name: install Docker
+  apt:
+    name: docker
+    update_cache: true 
+  file:
+    path: "/home"

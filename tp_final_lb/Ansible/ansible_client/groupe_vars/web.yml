@@ -1,4 +1,7 @@
 ---
-ansible_user: ubuntu 
+ansible_user: ynov_25
+ansible_password: iygy{I|V=F!Z9l^zSNf^ 
 ansible_ssh_private_key_file: /home/ubuntu/tp_devops_LB1/tp_final_lb/Ansible/ansible_client/tp_dev_ynov.pem
 
+default_container_name: docker
+default_container_image: ubuntu
